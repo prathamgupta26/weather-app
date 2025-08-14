@@ -10,3 +10,21 @@ A fast, modern, and lightweight React application powered by [Vite](https://vite
 - 🖌 Easy to style with CSS, SCSS, Tailwind, or any library of your choice
 
 ## 📂 Project Structure
+```
+weather-app/
+├── 📁 public/
+├── 📁 src/
+│   ├── 📁 components/
+│   ├── 📁 assets/
+│   ├── 📄 App.jsx
+│   ├── 📄 index.js
+│   └── 📁 styles/
+├── 📄 .gitignore
+├── 📄 README.md
+├── 📄 eslint.config.js
+├── 📄 index.html
+├── 📄 package.json
+├── 📄 package-lock.json
+└── 📄 vite.config.js
+```
+
